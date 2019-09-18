@@ -1,0 +1,11 @@
+body {
+    padding :50px;
+    background-color: rgba(120, 85, 119, 0.11);
+    font-gfamily: sams-serif;
+}
+
+#container {
+    display: flex;
+    justify-content: left;
+
+}
